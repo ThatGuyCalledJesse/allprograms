@@ -4,6 +4,8 @@ import random
 # Rot: Rotations
 # The number defines what type of rotation it is (Rot1 = A : B, Rot3 = A: D)
 
+# Database containing all the algorithms, you should probably not touch anything
+
 # TODO: Add more algorithms and implement them (In Progress)
 
 Rot1 = Algorithm(1, {"a": "b",
@@ -305,7 +307,61 @@ Rot11 = Algorithm(11, {"a": "l",
                        "y": "j",
                        "z": "k"}, "Rot11")
 
-RotList = [Rot1, Rot2, Rot3, Rot4, Rot5, Rot6, Rot7, Rot8, Rot9, Rot10, Rot11]
+Rot12 = Algorithm(12, {"a": "m",
+                       "b": "n",
+                       "c": "o",
+                       "d": "p",
+                       "e": "q",
+                       "f": "r",
+                       "g": "s",
+                       "h": "t",
+                       "i": "u",
+                       "j": "v",
+                       "k": "w",
+                       "l": "x",
+                       "m": "y",
+                       "n": "z",
+                       "o": "a",
+                       "p": "b",
+                       "q": "c",
+                       "r": "d",
+                       "s": "e",
+                       "t": "f",
+                       "u": "g",
+                       "v": "h",
+                       "w": "i",
+                       "x": "j",
+                       "y": "k",
+                       "z": "l"}, "Rot12")
+
+Rot13 = Algorithm(13, {"a": "n",
+                       "b": "o",
+                       "c": "p",
+                       "d": "q",
+                       "e": "r",
+                       "f": "s",
+                       "g": "t",
+                       "h": "u",
+                       "i": "v",
+                       "j": "w",
+                       "k": "x",
+                       "l": "y",
+                       "m": "z",
+                       "n": "a",
+                       "o": "b",
+                       "p": "c",
+                       "q": "d",
+                       "r": "e",
+                       "s": "f",
+                       "t": "g",
+                       "u": "h",
+                       "v": "i",
+                       "w": "j",
+                       "x": "k",
+                       "y": "l",
+                       "z": "m"}, "Rot13")
+
+RotList = [Rot1, Rot2, Rot3, Rot4, Rot5, Rot6, Rot7, Rot8, Rot9, Rot10, Rot11, Rot12]
 
 
 def chooseAlgorithm():
