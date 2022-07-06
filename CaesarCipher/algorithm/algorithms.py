@@ -6,7 +6,7 @@ import random
 
 # Database containing all the algorithms, you should probably not touch anything
 
-# TODO: Add more algorithms and implement them (In Progress)
+# TODO: Add more algorithms and implement them (Done)
 
 Rot1 = Algorithm(1, {"a": "b",
                      "b": "c",
