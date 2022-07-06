@@ -1,4 +1,4 @@
-from algorithm.Algorithm import Algorithm
+from allprograms.CaesarCipher.algorithm.Algorithm import Algorithm
 import random
 
 # Rot: Rotations
@@ -143,9 +143,89 @@ Rot5 = Algorithm(5, {"a": "f",
                      "y": "d",
                      "z": "e", }, "Rot5")
 
-Rot6 = Algorithm(6, {}, "Rot6")
+Rot6 = Algorithm(6, {"a": "g",
+                     "b": "h",
+                     "c": "i",
+                     "d": "j",
+                     "e": "k",
+                     "f": "l",
+                     "g": "m",
+                     "h": "n",
+                     "i": "o",
+                     "j": "p",
+                     "k": "q",
+                     "l": "r",
+                     "m": "s",
+                     "n": "t",
+                     "o": "u",
+                     "p": "v",
+                     "q": "w",
+                     "r": "x",
+                     "s": "y",
+                     "t": "z",
+                     "u": "a",
+                     "v": "b",
+                     "w": "c",
+                     "x": "d",
+                     "y": "e",
+                     "z": "f"}, "Rot6")
 
-RotList = [Rot1, Rot2, Rot3, Rot4, Rot5, Rot6]
+Rot7 = Algorithm(7, {"a": "h",
+                     "b": "i",
+                     "c": "j",
+                     "d": "k",
+                     "e": "l",
+                     "f": "m",
+                     "g": "n",
+                     "h": "o",
+                     "i": "p",
+                     "j": "q",
+                     "k": "r",
+                     "l": "s",
+                     "m": "t",
+                     "n": "u",
+                     "o": "v",
+                     "p": "w",
+                     "q": "x",
+                     "r": "y",
+                     "s": "z",
+                     "t": "a",
+                     "u": "b",
+                     "v": "c",
+                     "w": "d",
+                     "x": "e",
+                     "y": "f",
+                     "z": "g"}, "Rot7")
+
+Rot8 = Algorithm(8, {"a": "i",
+                     "b": "j",
+                     "c": "k",
+                     "d": "l",
+                     "e": "m",
+                     "f": "n",
+                     "g": "o",
+                     "h": "p",
+                     "i": "q",
+                     "j": "r",
+                     "k": "s",
+                     "l": "t",
+                     "m": "u",
+                     "n": "v",
+                     "o": "w",
+                     "p": "x",
+                     "q": "y",
+                     "r": "z",
+                     "s": "a",
+                     "t": "b",
+                     "u": "c",
+                     "v": "d",
+                     "w": "e",
+                     "x": "f",
+                     "y": "g",
+                     "z": "h"}, "Rot8")
+
+RotList = [Rot1, Rot2, Rot3, Rot4, Rot5, Rot6, Rot7]
+
 
 def chooseAlgorithm():
     with open("../output.txt", "w") as file:

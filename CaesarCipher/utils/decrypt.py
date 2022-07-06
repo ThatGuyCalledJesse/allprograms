@@ -1,4 +1,4 @@
-from algorithm.Algorithm import Algorithm
+from allprograms.CaesarCipher.algorithm.Algorithm import Algorithm
 
 
 # TODO: Implement decrypting (Done)

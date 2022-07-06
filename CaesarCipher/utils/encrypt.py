@@ -1,4 +1,5 @@
-from algorithm.Algorithm import *
+from allprograms.CaesarCipher.algorithm.Algorithm import *
+
 
 def encrypt(encryptString: str, algorithm: Algorithm):
     try:
