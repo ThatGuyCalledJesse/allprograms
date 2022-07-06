@@ -1,0 +1,1 @@
+This python file adds some functions that make coding a little bit easier, and they can probably be found in some of my programs.
