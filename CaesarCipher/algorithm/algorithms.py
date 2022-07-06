@@ -305,7 +305,7 @@ Rot11 = Algorithm(11, {"a": "l",
                        "y": "j",
                        "z": "k"}, "Rot11")
 
-RotList = [Rot1, Rot2, Rot3, Rot4, Rot5, Rot6, Rot7, Rot8, Rot9, Rot10]
+RotList = [Rot1, Rot2, Rot3, Rot4, Rot5, Rot6, Rot7, Rot8, Rot9, Rot10, Rot11]
 
 
 def chooseAlgorithm():
