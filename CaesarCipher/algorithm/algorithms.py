@@ -361,7 +361,34 @@ Rot13 = Algorithm(13, {"a": "n",
                        "y": "l",
                        "z": "m"}, "Rot13")
 
-RotList = [Rot1, Rot2, Rot3, Rot4, Rot5, Rot6, Rot7, Rot8, Rot9, Rot10, Rot11, Rot12]
+Rot14 = Algorithm(14, {"a": "o",
+                       "b": "p",
+                       "c": "q",
+                       "d": "r",
+                       "e": "s",
+                       "f": "t",
+                       "g": "u",
+                       "h": "v",
+                       "i": "w",
+                       "j": "x",
+                       "k": "y",
+                       "l": "z",
+                       "m": "a",
+                       "n": "b",
+                       "o": "c",
+                       "p": "d",
+                       "q": "e",
+                       "r": "f",
+                       "s": "g",
+                       "t": "h",
+                       "u": "i",
+                       "v": "j",
+                       "w": "k",
+                       "x": "l",
+                       "y": "m",
+                       "z": "n"}, "Rot14")
+
+RotList = [Rot1, Rot2, Rot3, Rot4, Rot5, Rot6, Rot7, Rot8, Rot9, Rot10, Rot11, Rot12, Rot13, Rot14]
 
 
 def chooseAlgorithm():
