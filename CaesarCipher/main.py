@@ -8,7 +8,7 @@ alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n'
 
 characterIndex1 = 0
 for letter in alphabet:
-    characterIndex2 = characterIndex1 + 15
+    characterIndex2 = characterIndex1 + 20
     print(f"\"{alphabet[characterIndex1]}\": \"{alphabet[characterIndex2]}\",")
     characterIndex1 += 1
 
