@@ -278,6 +278,33 @@ Rot10 = Algorithm(10, {"a": "k",
                        "y": "i",
                        "z": "j"}, "Rot10")
 
+Rot11 = Algorithm(11, {"a": "l",
+                       "b": "m",
+                       "c": "n",
+                       "d": "o",
+                       "e": "p",
+                       "f": "q",
+                       "g": "r",
+                       "h": "s",
+                       "i": "t",
+                       "j": "u",
+                       "k": "v",
+                       "l": "w",
+                       "m": "x",
+                       "n": "y",
+                       "o": "z",
+                       "p": "a",
+                       "q": "b",
+                       "r": "c",
+                       "s": "d",
+                       "t": "e",
+                       "u": "f",
+                       "v": "g",
+                       "w": "h",
+                       "x": "i",
+                       "y": "j",
+                       "z": "k"}, "Rot11")
+
 RotList = [Rot1, Rot2, Rot3, Rot4, Rot5, Rot6, Rot7, Rot8, Rot9, Rot10]
 
 
