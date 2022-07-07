@@ -691,10 +691,10 @@ RotList = [Rot1, Rot2, Rot3, Rot4, Rot5, Rot6, Rot7, Rot8, Rot9, Rot10,
 
 
 def chooseAlgorithm():
-    with open("../output.txt", "w") as file:
+    with open("output.txt", "w") as file:
         file.write("")
     randomAlgorithm = random.choice(RotList)
     print(f"The chosen algorithm is {randomAlgorithm.name}! Write that down!")
-    with open("../output.txt", "w") as file:
+    with open("output.txt", "w") as file:
         file.write(f"Algorithm: {randomAlgorithm.name}")
     return randomAlgorithm
