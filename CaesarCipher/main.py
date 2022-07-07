@@ -1,6 +1,6 @@
 from allprograms.CaesarCipher.algorithm.algorithms import *
 from utils.encrypt import encrypt
-from allprograms.utils import *
+from utils.decrypt import decrypt
 
 # TODO: Write the program that actually encrypts and decrypts a string (Done)
 # TODO: Add a menu that lets the user choose between encrypting and decrypting (In Progress)
@@ -15,7 +15,8 @@ path = "output.txt"
 # Driver code
 if __name__ == "__main__":
     # Clears the "output.txt" file
-    clearFile(path)
+    with open(path, "w") as file:
+        file.write("")
 
     # Asks if the user wants to encrypt a string or decrypt a string
     activity = input("Do you want to encrypt a string? Or do you want to decrypt a string?\n")
@@ -29,4 +30,6 @@ if __name__ == "__main__":
             file.write(f"\nEncrypted string: {encrypted}")
         print("For your conveniences, the output is also written to a file called output.txt")
     elif activity.lower() == "decrypt":
-        decryptString = input("")
+        decryptString = input("What string do you want to decrypt?\n")
+        decryptAlgorithm = input("With what algorithm what that string encrypted?\n").lower()
+        print(decrypt(decryptString, ))
