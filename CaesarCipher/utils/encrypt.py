@@ -1,6 +1,5 @@
 from allprograms.CaesarCipher.algorithm.Algorithm import *
 
-
 def encrypt(encryptString: str, algorithm: Algorithm):
     try:
         stringEncrypted = ""
