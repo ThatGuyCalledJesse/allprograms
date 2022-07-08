@@ -24,6 +24,7 @@ if __name__ == "__main__":
 
     # An "If Statement" that gives the code respective to the user's choice
     if activity.lower() == "encrypt":
+        # The things that happen when the user enters "encrypt"
         encryptString = input("What string do you want to encrypt?\n")
         encrypted = encrypt(encryptString, chooseAlgorithm())
         print(encrypted)
@@ -31,6 +32,10 @@ if __name__ == "__main__":
             file.write(f"\nEncrypted string: {encrypted}")
         print("For your conveniences, the output is also written to a file called output.txt")
     elif activity.lower() == "decrypt":
+        # The things that happen when the user enters "decrypt"
         decryptString = input("What string do you want to decrypt?\n")
         decryptAlgorithm = input("With what algorithm what that string encrypted?\n").lower()
         print(decrypt(decryptString, useAlgorithm(decryptAlgorithm)))
+    else:
+        # An error gets raised when the user doesn't enter a valid option
+        raise Exception("That is not a valid option! Please try again")
