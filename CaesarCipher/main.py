@@ -1,9 +1,10 @@
 from allprograms.CaesarCipher.algorithm.algorithms import *
 from utils.encrypt import encrypt
 from utils.decrypt import decrypt
+from utils.useAlgorithm import useAlgorithm
 
 # TODO: Write the program that actually encrypts and decrypts a string (Done)
-# TODO: Add a menu that lets the user choose between encrypting and decrypting (In Progress)
+# TODO: Add a menu that lets the user choose between encrypting and decrypting (Done)
 
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u',
             'v', 'w', 'x', 'y', 'z', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p',
@@ -32,4 +33,4 @@ if __name__ == "__main__":
     elif activity.lower() == "decrypt":
         decryptString = input("What string do you want to decrypt?\n")
         decryptAlgorithm = input("With what algorithm what that string encrypted?\n").lower()
-
+        print(decrypt(decryptString, useAlgorithm(decryptAlgorithm)))
