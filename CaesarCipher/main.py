@@ -32,4 +32,4 @@ if __name__ == "__main__":
     elif activity.lower() == "decrypt":
         decryptString = input("What string do you want to decrypt?\n")
         decryptAlgorithm = input("With what algorithm what that string encrypted?\n").lower()
-        print(decrypt(decryptString, ))
+
