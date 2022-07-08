@@ -1,8 +1,8 @@
 import time
 import os
 
-seconds = 55
-minutes = 59
+seconds = 0
+minutes = 0
 hours = 0
 
 while True:
