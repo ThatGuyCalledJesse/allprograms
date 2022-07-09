@@ -1,5 +1,6 @@
 from allprograms.CaesarCipher.algorithm.Algorithm import Algorithm
 
+# This function decrypts the given string
 def decrypt(decryptString: str, algorithm: Algorithm):
     stringOriginal = ""
     encryptedStripped = list(decryptString)

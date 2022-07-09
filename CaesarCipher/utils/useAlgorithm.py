@@ -1,6 +1,7 @@
 from allprograms.CaesarCipher.algorithm.algorithms import *
 
 # This function links the input string to the corresponding algorithm
+# It also contains a lot of error handling
 def useAlgorithm(input: str):
     input = input.lower()
     inputStripped = list(input)
