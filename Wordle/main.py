@@ -10,4 +10,4 @@ wordList = list(word)
 inputWord = input("Enter a 5-letter word: ")
 
 # Checks if the word is 5 letters long
-validate(word)
+validate(inputWord)
