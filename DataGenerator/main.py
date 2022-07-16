@@ -1,0 +1,1 @@
+# This program is used to catch cheaters based on math, not 100% accurate
