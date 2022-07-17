@@ -8,3 +8,4 @@ def validate(data: list):
         if i[0] == i[1] and i[1] == i[2] and i[2] == i[3] and i[3] == i[4] and i[4] == "Heads":
             print(f"Player {playerIndex} is probably a cheater and returned positive from the test!")
             amountFlagged += 1
+    return f"{amountFlagged} players flagged the test!"

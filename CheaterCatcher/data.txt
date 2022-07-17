@@ -1,1000 +1,1000 @@
-Player 1: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 2: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 3: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 4: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 5: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 6: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 7: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 8: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 9: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 10: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 11: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 12: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 13: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 14: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 15: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 16: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 17: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 18: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 19: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 20: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 21: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 22: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 23: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 24: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 25: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 26: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 27: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 28: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 29: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 30: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 31: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 32: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 33: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 34: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 35: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 36: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 37: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 38: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 39: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 40: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 41: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 42: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 43: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 1: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 2: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 3: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 4: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 5: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 6: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 7: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 8: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 9: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 10: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 11: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 12: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 13: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 14: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 15: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 16: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 17: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 18: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 19: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 20: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 21: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 22: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 23: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 24: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 25: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 26: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 27: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 28: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 29: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 30: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 31: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 32: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 33: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 34: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 35: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 36: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 37: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 38: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 39: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 40: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 41: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 42: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 43: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
 Player 44: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 45: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 46: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 47: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 48: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 49: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 50: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 51: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 52: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 53: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 54: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 55: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 56: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 57: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 58: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 59: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 60: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 61: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 62: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 63: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 64: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 65: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 66: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 67: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 68: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 69: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 70: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 71: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 72: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 73: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 74: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 75: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 76: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 77: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 78: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 79: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 80: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 81: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 82: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 83: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 84: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 85: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 86: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 87: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 88: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 89: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 90: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 91: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 92: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 93: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 94: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 95: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 96: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 97: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 98: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 99: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 100: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 101: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 102: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 103: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 104: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 105: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 106: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 107: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 108: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 109: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 110: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 111: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 112: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 113: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 114: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 115: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 116: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 117: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 118: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 119: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 120: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 121: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 122: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 123: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 124: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 125: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 126: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 127: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 128: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 129: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 130: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 131: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 132: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 133: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 134: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 135: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 136: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 137: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 138: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 139: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 140: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 141: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 142: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 143: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 144: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 145: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 146: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 147: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 148: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 149: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 150: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 151: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 152: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 153: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 154: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 155: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 156: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 157: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 45: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 46: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 47: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 48: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 49: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 50: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 51: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 52: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 53: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 54: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 55: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 56: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 57: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 58: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 59: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 60: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 61: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 62: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 63: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 64: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 65: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 66: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 67: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 68: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 69: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 70: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 71: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 72: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 73: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 74: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 75: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 76: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 77: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 78: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 79: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 80: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 81: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 82: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 83: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 84: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 85: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 86: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 87: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 88: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 89: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 90: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 91: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 92: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 93: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 94: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 95: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 96: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 97: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 98: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 99: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 100: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 101: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 102: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 103: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 104: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 105: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 106: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 107: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 108: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 109: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 110: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 111: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 112: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 113: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 114: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 115: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 116: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 117: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 118: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 119: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 120: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 121: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 122: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 123: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 124: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 125: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 126: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 127: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 128: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 129: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 130: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 131: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 132: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 133: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 134: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 135: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 136: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 137: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 138: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 139: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 140: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 141: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 142: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 143: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 144: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 145: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 146: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 147: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 148: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 149: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 150: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 151: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 152: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 153: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 154: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 155: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 156: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 157: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
 Player 158: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 159: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 160: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 159: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 160: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
 Player 161: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 162: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 163: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 164: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 165: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 166: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 167: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 168: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 169: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 170: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 162: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 163: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 164: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 165: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 166: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 167: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 168: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 169: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 170: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
 Player 171: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 172: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 173: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 174: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 175: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 176: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 177: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 178: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 179: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 180: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 181: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 182: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 183: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 184: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 185: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 186: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 187: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 188: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 189: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 190: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 191: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 192: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 193: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 194: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 195: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 196: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 197: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 198: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 199: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 200: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 201: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 202: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 203: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 204: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 205: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 206: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 207: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 208: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 209: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 210: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 211: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 212: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 213: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 214: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 215: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 216: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 217: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 218: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 219: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 220: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 172: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 173: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 174: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 175: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 176: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 177: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 178: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 179: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 180: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 181: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 182: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 183: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 184: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 185: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 186: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 187: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 188: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 189: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 190: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 191: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 192: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 193: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 194: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 195: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 196: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 197: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 198: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 199: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 200: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 201: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 202: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 203: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 204: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 205: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 206: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 207: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 208: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 209: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 210: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 211: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 212: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 213: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 214: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 215: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 216: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 217: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 218: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 219: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 220: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
 Player 221: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 222: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 223: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 224: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 225: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 226: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 227: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 228: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 229: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 230: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 231: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 232: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 233: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 234: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 235: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 236: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 237: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 238: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 239: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 240: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 241: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 242: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 243: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 244: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 245: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 246: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 247: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 248: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 249: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 250: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 251: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 252: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 253: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 254: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 255: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 256: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 257: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 258: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 259: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 260: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 261: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 262: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 263: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 264: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 265: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 266: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 267: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 268: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 269: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 270: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 271: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 272: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 273: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 274: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 275: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 276: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 277: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 278: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 279: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 280: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 281: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 282: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 283: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 284: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 285: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 286: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 287: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 288: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 289: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 290: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 291: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 292: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 293: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 294: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 295: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 296: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 297: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 298: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 299: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 300: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 301: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 302: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 303: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 304: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 305: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 306: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 307: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 308: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 309: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 310: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 311: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 312: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 313: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 314: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 315: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 316: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 317: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 318: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 319: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 320: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 321: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 322: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 323: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 324: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 325: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 326: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 327: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 328: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 329: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 330: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 331: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 332: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 333: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 334: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 335: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 336: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 337: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 338: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 339: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 340: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 341: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 342: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 343: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 344: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 345: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 346: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 347: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 348: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 349: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 350: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 351: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 352: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 353: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 354: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 355: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 356: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 357: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 358: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 359: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 360: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 361: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 362: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 363: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 364: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 365: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 366: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 367: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 368: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 369: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 370: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 371: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 372: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 373: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 374: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 375: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 376: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 377: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 378: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 379: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 380: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 381: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 382: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 222: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 223: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 224: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 225: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 226: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 227: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 228: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 229: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 230: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 231: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 232: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 233: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 234: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 235: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 236: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 237: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 238: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 239: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 240: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 241: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 242: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 243: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 244: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 245: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 246: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 247: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 248: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 249: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 250: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 251: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 252: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 253: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 254: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 255: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 256: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 257: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 258: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 259: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 260: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 261: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 262: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 263: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 264: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 265: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 266: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 267: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 268: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 269: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 270: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 271: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 272: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 273: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 274: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 275: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 276: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 277: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 278: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 279: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 280: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 281: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 282: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 283: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 284: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 285: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 286: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 287: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 288: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 289: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 290: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 291: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 292: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 293: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 294: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 295: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 296: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 297: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 298: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 299: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 300: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 301: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 302: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 303: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 304: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 305: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 306: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 307: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 308: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 309: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 310: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 311: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 312: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 313: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 314: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 315: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 316: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 317: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 318: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 319: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 320: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 321: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 322: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 323: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 324: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 325: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 326: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 327: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 328: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 329: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 330: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 331: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 332: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 333: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 334: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 335: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 336: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 337: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 338: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 339: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 340: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 341: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 342: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 343: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 344: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 345: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 346: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 347: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 348: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 349: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 350: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 351: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 352: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 353: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 354: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 355: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 356: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 357: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 358: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 359: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 360: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 361: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 362: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 363: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 364: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 365: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 366: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 367: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 368: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 369: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 370: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 371: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 372: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 373: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 374: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 375: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 376: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 377: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 378: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 379: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 380: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 381: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 382: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
 Player 383: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 384: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 385: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 386: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 387: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 388: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 389: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 390: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 391: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 392: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 393: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 394: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 395: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 396: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 397: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 398: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 399: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 400: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 401: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 402: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 403: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 404: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 405: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 406: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 407: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 408: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 409: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 410: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 411: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 412: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 413: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 414: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 415: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 416: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 417: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 418: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 419: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 420: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 421: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 422: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 423: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 424: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 425: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 426: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 427: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 428: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 429: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 430: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 431: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 432: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 433: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 434: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 435: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 436: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 437: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 438: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 439: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 384: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 385: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 386: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 387: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 388: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 389: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 390: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 391: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 392: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 393: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 394: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 395: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 396: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 397: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 398: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 399: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 400: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 401: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 402: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 403: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 404: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 405: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 406: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 407: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 408: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 409: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 410: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 411: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 412: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 413: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 414: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 415: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 416: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 417: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 418: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 419: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 420: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 421: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 422: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 423: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 424: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 425: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 426: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 427: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 428: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 429: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 430: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 431: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 432: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 433: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 434: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 435: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 436: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 437: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 438: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 439: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
 Player 440: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 441: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 442: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 443: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 444: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 445: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 446: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 447: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 448: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 449: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 450: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 451: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 452: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 453: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 454: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 455: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 456: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 457: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 458: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 459: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 460: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 461: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 462: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 463: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 464: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 465: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 466: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 467: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 468: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 469: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 470: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 471: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 472: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 473: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 474: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 475: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 476: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 477: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 478: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 479: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 480: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 481: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 482: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 483: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 441: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 442: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 443: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 444: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 445: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 446: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 447: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 448: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 449: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 450: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 451: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 452: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 453: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 454: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 455: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 456: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 457: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 458: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 459: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 460: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 461: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 462: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 463: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 464: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 465: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 466: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 467: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 468: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 469: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 470: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 471: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 472: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 473: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 474: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 475: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 476: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 477: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 478: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 479: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 480: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 481: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 482: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 483: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
 Player 484: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 485: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 486: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 487: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 488: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 489: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 490: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 491: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 492: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 493: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 494: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 495: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 496: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 497: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 498: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 499: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 500: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 501: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 502: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 503: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 504: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 505: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 506: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 507: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 508: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 509: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 510: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 511: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 512: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 513: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 514: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 515: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 516: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 517: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 518: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 519: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 520: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 521: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 522: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 523: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 524: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 525: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 526: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 527: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 528: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 529: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 530: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 531: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 532: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 533: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 534: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 535: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 536: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 537: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 538: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 539: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 540: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 541: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 542: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 485: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 486: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 487: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 488: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 489: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 490: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 491: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 492: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 493: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 494: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 495: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 496: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 497: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 498: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 499: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 500: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 501: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 502: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 503: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 504: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 505: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 506: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 507: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 508: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 509: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 510: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 511: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 512: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 513: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 514: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 515: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 516: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 517: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 518: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 519: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 520: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 521: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 522: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 523: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 524: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 525: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 526: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 527: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 528: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 529: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 530: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 531: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 532: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 533: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 534: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 535: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 536: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 537: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 538: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 539: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 540: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 541: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 542: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
 Player 543: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 544: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 545: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 546: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 547: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 548: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 549: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 550: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 551: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 552: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 553: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 554: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 555: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 556: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 557: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 558: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 544: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 545: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 546: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 547: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 548: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 549: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 550: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 551: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 552: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 553: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 554: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 555: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 556: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 557: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 558: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
 Player 559: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 560: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 561: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 562: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 563: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 564: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 565: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 566: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 567: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 568: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 569: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 570: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 571: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 572: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 573: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 574: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 575: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 576: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 577: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 578: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 579: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 580: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 581: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 582: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 583: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 584: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 585: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 586: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 587: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 588: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 589: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 590: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 591: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 592: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 593: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 594: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 595: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 596: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 597: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 598: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 599: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 600: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 601: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 602: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 603: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 604: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 605: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 606: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 607: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 608: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 609: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 610: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 611: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 612: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 613: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 614: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 615: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 616: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 617: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 618: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 619: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 620: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 621: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 622: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 623: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 624: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 625: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 626: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 627: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 628: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 629: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 630: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 631: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 632: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 633: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 634: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 635: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 636: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 637: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 638: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 639: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 640: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 641: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 642: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 643: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 644: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 645: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 646: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 647: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 648: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 649: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 650: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 651: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 652: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 653: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 654: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 560: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 561: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 562: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 563: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 564: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 565: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 566: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 567: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 568: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 569: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 570: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 571: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 572: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 573: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 574: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 575: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 576: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 577: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 578: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 579: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 580: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 581: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 582: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 583: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 584: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 585: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 586: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 587: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 588: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 589: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 590: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 591: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 592: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 593: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 594: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 595: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 596: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 597: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 598: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 599: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 600: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 601: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 602: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 603: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 604: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 605: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 606: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 607: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 608: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 609: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 610: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 611: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 612: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 613: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 614: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 615: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 616: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 617: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 618: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 619: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 620: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 621: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 622: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 623: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 624: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 625: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 626: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 627: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 628: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 629: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 630: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 631: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 632: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 633: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 634: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 635: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 636: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 637: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 638: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 639: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 640: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 641: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 642: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 643: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 644: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 645: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 646: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 647: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 648: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 649: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 650: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 651: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 652: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 653: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 654: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
 Player 655: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 656: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 657: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 658: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 659: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 656: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 657: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 658: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 659: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
 Player 660: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 661: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 662: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 663: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 664: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 665: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 666: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 667: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 668: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 669: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 670: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 671: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 672: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 673: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 674: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 675: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 676: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 677: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 678: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 679: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 680: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 681: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 682: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 683: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 684: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 685: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 686: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 687: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 688: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 689: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 690: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 691: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 692: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 693: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 694: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 695: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 696: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 697: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 698: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 699: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 700: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 701: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 702: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 703: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 704: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 705: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 706: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 707: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 708: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 709: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 710: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 711: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 712: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 713: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 714: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 715: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 716: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 717: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 718: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 719: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 661: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 662: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 663: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 664: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 665: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 666: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 667: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 668: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 669: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 670: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 671: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 672: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 673: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 674: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 675: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 676: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 677: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 678: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 679: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 680: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 681: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 682: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 683: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 684: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 685: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 686: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 687: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 688: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 689: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 690: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 691: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 692: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 693: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 694: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 695: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 696: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 697: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 698: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 699: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 700: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 701: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 702: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 703: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 704: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 705: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 706: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 707: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 708: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 709: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 710: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 711: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 712: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 713: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 714: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 715: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 716: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 717: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 718: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 719: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
 Player 720: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 721: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 722: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 723: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 724: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 725: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 726: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 727: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 728: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 729: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 730: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 731: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 732: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 733: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 734: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 735: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 736: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 737: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 738: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 739: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 740: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 741: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 742: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 743: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 744: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 745: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 721: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 722: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 723: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 724: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 725: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 726: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 727: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 728: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 729: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 730: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 731: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 732: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 733: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 734: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 735: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 736: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 737: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 738: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 739: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 740: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 741: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 742: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 743: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 744: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 745: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
 Player 746: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 747: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 748: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 749: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 750: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 751: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 752: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 753: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 754: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 755: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 756: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 757: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 758: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 759: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 760: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 761: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 762: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 763: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 764: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 765: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 766: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 767: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 768: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 769: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 770: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 771: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 772: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 773: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 747: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 748: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 749: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 750: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 751: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 752: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 753: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 754: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 755: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 756: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 757: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 758: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 759: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 760: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 761: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 762: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 763: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 764: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 765: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 766: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 767: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 768: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 769: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 770: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 771: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 772: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 773: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
 Player 774: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 775: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 776: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 777: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 778: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 779: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 780: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 781: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 782: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 783: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 784: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 785: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 786: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 787: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 788: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 789: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 790: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 791: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 792: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 793: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 794: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 795: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 796: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 797: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 798: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 799: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 800: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 801: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 802: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 803: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 804: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 805: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 806: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 807: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 808: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 809: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 810: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 811: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 812: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 813: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 814: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 815: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 816: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 817: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 818: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 819: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 820: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 821: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 822: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 823: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 824: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 825: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 826: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 827: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 828: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 829: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 830: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 831: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 832: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 833: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 834: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 835: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 836: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 837: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 838: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 839: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 840: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 841: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 842: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 843: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 844: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 845: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 846: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 847: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 848: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 849: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 850: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 851: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 852: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 853: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 854: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 855: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 856: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 857: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 858: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 859: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 860: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 861: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 862: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 863: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 864: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 865: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 866: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 867: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 868: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 869: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 870: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 871: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 872: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 873: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 874: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 875: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 876: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 877: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 878: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 879: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 880: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 881: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 882: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 883: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 884: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 885: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 886: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 887: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 888: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 889: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 890: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 891: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 892: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 893: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 894: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 895: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 896: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 897: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 898: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 899: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 900: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 901: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 902: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 903: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 904: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 905: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 906: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 907: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 908: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 909: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 910: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 911: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 912: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 913: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 914: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 915: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 916: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
-Player 917: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 918: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 919: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 920: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 921: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 922: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 923: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 924: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 925: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 926: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 927: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 928: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 929: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 930: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 931: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 932: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 933: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 934: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 935: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 936: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 937: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 938: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 939: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 940: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 941: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 942: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 943: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 944: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 945: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 946: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 947: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 948: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 949: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 950: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 951: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 952: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 953: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 954: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 955: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 956: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 957: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 958: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 959: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 960: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 961: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 962: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
-Player 963: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 964: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
-Player 965: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
-Player 966: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 967: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 968: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 969: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
-Player 970: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 971: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 972: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 973: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 974: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 975: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 976: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 977: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 978: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 979: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 980: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 981: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
-Player 982: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 983: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
-Player 984: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 985: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 986: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 987: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 775: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 776: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 777: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 778: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 779: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 780: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 781: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 782: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 783: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 784: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 785: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 786: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 787: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 788: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 789: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 790: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 791: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 792: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 793: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 794: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 795: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 796: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 797: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 798: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 799: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 800: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 801: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 802: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 803: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 804: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 805: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 806: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 807: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 808: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 809: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 810: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 811: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 812: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 813: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 814: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 815: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 816: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 817: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 818: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 819: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 820: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 821: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 822: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 823: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 824: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 825: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 826: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 827: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 828: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 829: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 830: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 831: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 832: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 833: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 834: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 835: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 836: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 837: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 838: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 839: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 840: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 841: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 842: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 843: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 844: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 845: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 846: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 847: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 848: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 849: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 850: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 851: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 852: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 853: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 854: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 855: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 856: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 857: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 858: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 859: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 860: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 861: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 862: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 863: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 864: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 865: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 866: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 867: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 868: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 869: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 870: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 871: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 872: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 873: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 874: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 875: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 876: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 877: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 878: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 879: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 880: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 881: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 882: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 883: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 884: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 885: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 886: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 887: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 888: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 889: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 890: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 891: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 892: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 893: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 894: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 895: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 896: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 897: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 898: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 899: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 900: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 901: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 902: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 903: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 904: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 905: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 906: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 907: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 908: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 909: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 910: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 911: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 912: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 913: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 914: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 915: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 916: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 917: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 918: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 919: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 920: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 921: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 922: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 923: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 924: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 925: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 926: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 927: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 928: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 929: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 930: ['Tails', 'Heads', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 931: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 932: ['Heads', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 933: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 934: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 935: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 936: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 937: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 938: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 939: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 940: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 941: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 942: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 943: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 944: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 945: ['Tails', 'Heads', 'Heads', 'Heads', 'Tails'] | Cheater
+Player 946: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 947: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 948: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 949: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 950: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 951: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 952: ['Tails', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 953: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 954: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 955: ['Tails', 'Tails', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 956: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 957: ['Heads', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 958: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 959: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 960: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 961: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 962: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 963: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 964: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 965: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 966: ['Heads', 'Heads', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 967: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 968: ['Tails', 'Heads', 'Heads', 'Tails', 'Tails'] | No Cheater
+Player 969: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 970: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 971: ['Heads', 'Tails', 'Heads', 'Tails', 'Heads'] | No Cheater
+Player 972: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 973: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 974: ['Heads', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 975: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 976: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
+Player 977: ['Heads', 'Heads', 'Heads', 'Tails', 'Heads'] | Cheater
+Player 978: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 979: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | Cheater
+Player 980: ['Heads', 'Heads', 'Tails', 'Tails', 'Heads'] | No Cheater
+Player 981: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 982: ['Tails', 'Heads', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 983: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 984: ['Tails', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 985: ['Heads', 'Heads', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 986: ['Heads', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 987: ['Heads', 'Tails', 'Heads', 'Heads', 'Heads'] | No Cheater
 Player 988: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | No Cheater
-Player 989: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 990: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
-Player 991: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 992: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 993: ['Heads', 'Tails', 'Tails', 'Heads', 'Tails'] | Cheater
-Player 994: ['Heads', 'Tails', 'Heads', 'Heads', 'Tails'] | No Cheater
-Player 995: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
-Player 996: ['Tails', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
-Player 997: ['Tails', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater
-Player 998: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | No Cheater
-Player 999: ['Tails', 'Tails', 'Heads', 'Heads', 'Tails'] | Cheater
-Player 1000: ['Tails', 'Heads', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 989: ['Heads', 'Tails', 'Tails', 'Tails', 'Heads'] | Cheater
+Player 990: ['Heads', 'Tails', 'Heads', 'Tails', 'Tails'] | Cheater
+Player 991: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 992: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 993: ['Tails', 'Tails', 'Heads', 'Heads', 'Heads'] | Cheater
+Player 994: ['Tails', 'Heads', 'Tails', 'Heads', 'Heads'] | No Cheater
+Player 995: ['Heads', 'Heads', 'Heads', 'Heads', 'Tails'] | No Cheater
+Player 996: ['Tails', 'Heads', 'Tails', 'Heads', 'Tails'] | Cheater
+Player 997: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | Cheater
+Player 998: ['Tails', 'Tails', 'Tails', 'Tails', 'Tails'] | No Cheater
+Player 999: ['Tails', 'Tails', 'Tails', 'Heads', 'Tails'] | No Cheater
+Player 1000: ['Heads', 'Heads', 'Heads', 'Heads', 'Heads'] | No Cheater

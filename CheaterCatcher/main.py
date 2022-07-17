@@ -5,4 +5,6 @@ from validate import validate
 
 # Create player data for 1000 players
 data = create_data(1000)
-validate(data)
+validation = validate(data)
+print(validation)
+print("")
