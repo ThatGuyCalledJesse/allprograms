@@ -1,5 +1,4 @@
 import random
-import os
 
 def create_data(amountOfPlayers: int):
     # List that contains all results
