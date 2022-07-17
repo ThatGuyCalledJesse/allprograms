@@ -12,12 +12,10 @@ def create_data(amountOfPlayers: int):
     # A loop that iterates through all the players
     for i in range(amountOfPlayers):
         playerIndex = i + 1
-        result= []
+        result = []
         for i in range(5):
             result.append(random.choice(("Heads", "Tails")))
         with open("data.txt", 'a') as file:
             file.write(f'Player {playerIndex}: {result}\n')
         all_results.append(result)
     return all_results
-
-create_data(10)
