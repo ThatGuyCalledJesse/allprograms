@@ -15,6 +15,6 @@ def create_data(amountOfPlayers: int):
         for i in range(5):
             result.append(random.choice(("Heads", "Tails")))
         with open("data.txt", 'a') as file:
-            file.write(f'Player {playerIndex}: {result}\n')
+            file.write(f'Player {playerIndex}: {result} | {random.choice(("Cheater", "No Cheater"))}\n')
         all_results.append(result)
     return all_results
