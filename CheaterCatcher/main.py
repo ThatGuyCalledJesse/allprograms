@@ -1,5 +1,5 @@
 from create_data import create_data
-from validate import validate
+from validate import *
 
 # This program is used to catch cheaters based on math, not 100% accurate
 
@@ -7,4 +7,3 @@ from validate import validate
 data = create_data(1000)
 validation = validate(data)
 print(validation)
-print("")

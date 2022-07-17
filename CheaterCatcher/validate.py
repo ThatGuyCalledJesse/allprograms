@@ -1,5 +1,4 @@
-# A function that checks if the player
-
+# A function that checks if the player has 5 heads in a row, if so, the player gets marked as a cheater
 def validate(data: list):
     playerIndex = 0
     amountFlagged = 0
@@ -9,3 +8,6 @@ def validate(data: list):
             print(f"Player {playerIndex} is probably a cheater and returned positive from the test!")
             amountFlagged += 1
     return f"{amountFlagged} players flagged the test!"
+
+# A function that checks if the results are false positive, or true positive
+def validate_2(data: list):
