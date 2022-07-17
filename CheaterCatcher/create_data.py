@@ -13,8 +13,12 @@ def create_data(amountOfPlayers: int):
         playerIndex = i + 1
         isCheater = random.choice(("Cheater", "Not Cheater"))
         result = []
-        for i in range(5):
-            result.append(random.choice(("Heads", "Tails")))
+        if isCheater.lower() == "cheater":
+            for i in range(5):
+                result.append("Heads")
+        else:
+            for i in range(5):
+                result.append(random.choice(("Heads", "Tails")))
         result.append(isCheater)
         with open("data.txt", 'a') as file:
             file.write(f'Player {playerIndex}: {result}\n')
