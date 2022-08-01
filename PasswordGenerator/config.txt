@@ -1,0 +1,5 @@
+# Only edit the "true" or "false"
+
+numbers=false
+special_characters=false
+cpaital_characters=false
