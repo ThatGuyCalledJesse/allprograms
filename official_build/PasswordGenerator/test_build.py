@@ -13,6 +13,9 @@ specials = ['!', '@', '#', '$', '%', '^', '&', '*', '?']
 capitals = []
 password = ""
 config = ""
+numbersEnabled = 'no'
+specialsEnabled = 'no'
+capitalsEnabled = 'no'
 
 with open("config.txt", "r") as file:
     config = file.read()
@@ -27,7 +30,8 @@ if load_config_choice != 'yes' and load_config_choice != 'no':
     raise Exception("Please enter yes or no")
 
 if load_config_choice == 'yes':
-    pass
+    if numbers_test_build in config:
+        possibleCharacters.append(numbers)
 else:
     capitalsEnabled = input("Do you want to enable uppercase letters? [YES] [NO]\n>")
     numbersEnabled = input("Do you want to enable numbers? [YES] [NO]\n>")
