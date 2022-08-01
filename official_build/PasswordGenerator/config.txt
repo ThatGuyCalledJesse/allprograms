@@ -1,5 +1,0 @@
-# Only edit the "true" or "false"
-
-numbers=false
-special_characters=false
-capital_characters=false
