@@ -17,12 +17,12 @@ numbersEnabled = 'no'
 specialsEnabled = 'no'
 capitalsEnabled = 'no'
 
-with open("config.txt", "r") as file:
-    config = file.read()
-
 for character in possibleCharacters:
     character = character.upper()
     capitals.append(character)
+
+with open("config.txt", "r") as file:
+    config = file.read()
 
 load_config_choice = input("Would you wish to load settings from config file?")
 
