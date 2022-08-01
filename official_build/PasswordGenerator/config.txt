@@ -2,4 +2,4 @@
 
 numbers=false
 special_characters=false
-cpaital_characters=false
+capital_characters=false

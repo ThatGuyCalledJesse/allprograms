@@ -1,5 +1,6 @@
 import random
 import os
+from test_build_variables import *
 
 possibleCharacters = ['a', 'b', 'c', 'd', 'e',
                       'f', 'g', 'h', 'i', 'j',
