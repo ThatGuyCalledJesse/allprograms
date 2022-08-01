@@ -1,0 +1,1 @@
+This program is a stopwatch, it counts the hours, minutes and seconds from the point where you enabled it

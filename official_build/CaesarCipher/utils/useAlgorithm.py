@@ -1,4 +1,4 @@
-from allprograms.CaesarCipher.algorithm.algorithms import *
+from allprograms.official_build.CaesarCipher.algorithm.algorithms import *
 
 # This function links the input string to the corresponding algorithm
 # It also contains a lot of error handling

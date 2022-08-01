@@ -1,4 +1,4 @@
-from allprograms.CaesarCipher.algorithm.Algorithm import Algorithm
+from allprograms.official_build.CaesarCipher.algorithm.Algorithm import Algorithm
 import random
 
 # Rot: Rotations
